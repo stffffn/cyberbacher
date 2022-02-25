@@ -9,3 +9,7 @@ The `cyberbacher_print_flyeralarm.pdf` is specifically created for printing stic
 If you plan to print at Flyeralarm, please check their current datasheet for stickers beforehand, to ensure they haven't changed their requirements in the meantime.
 
 ![Cyberbacher Stickers](cyberbacher_stickers.jpg)
+
+## License
+
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ](http://creativecommons.org/licenses/by-nc-sa/4.0/)
